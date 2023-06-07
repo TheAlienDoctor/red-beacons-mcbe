@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rA pack that turns the beacon block red, instead of blue. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien's§r §eRed Beacons §4(RP-V1.0.0)§r",
+		"uuid": "4dc47791-a45b-48f1-abf2-46528f8b16ff",
 		"version": [
 			1,
 			0,
@@ -12,14 +12,14 @@
 		"min_engine_version": [
 			1,
 			19,
-			60
+			80
 		]
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rA pack that turns the beacon block red, instead of blue. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "resources",
+			"uuid": "c96b9b0c-470f-4c8b-a056-1382ea8e0415",
 			"version": [
 				1,
 				0,
